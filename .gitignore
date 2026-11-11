@@ -1,0 +1,9 @@
+# Temporales de elaboración y de Office
+/.tfm-build-*/
+~$*
+__pycache__/
+*.py[cod]
+
+# Originales con datos del suministro y la ubicación
+/Docs/Facturas ANDE/
+/Docs/B-1-TFM-Clara Maria De Los Angeles Rolon Dure-revisado (1).docx
